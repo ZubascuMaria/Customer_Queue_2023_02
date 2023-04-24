@@ -1,0 +1,100 @@
+Current time: 0
+[]
+[]
+Current time: 1
+[]
+[]
+Current time: 2
+[]
+[]
+Current time: 3
+[[3 2 3]]
+[]
+Current time: 4
+[[3 2 2]]
+[]
+Current time: 5
+[[3 2 1]]
+[[0 4 2]]
+Current time: 6
+[]
+[[0 4 1]]
+Current time: 7
+[]
+[]
+Current time: 8
+[]
+[]
+Current time: 9
+[]
+[]
+Current time: 10
+[]
+[]
+Current time: 11
+[]
+[]
+Current time: 12
+[]
+[]
+Current time: 13
+[]
+[]
+Current time: 14
+[]
+[]
+Current time: 15
+[]
+[]
+Current time: 16
+[]
+[]
+Current time: 17
+[]
+[]
+Current time: 18
+[]
+[]
+Current time: 19
+[]
+[]
+Current time: 20
+[]
+[]
+Current time: 21
+[[2 20 2]]
+[]
+Current time: 22
+[[2 20 1]]
+[]
+Current time: 23
+[]
+[]
+Current time: 24
+[]
+[]
+Current time: 25
+[]
+[]
+Current time: 26
+[]
+[]
+Current time: 27
+[]
+[]
+Current time: 28
+[]
+[]
+Current time: 29
+[]
+[]
+Current time: 30
+[[1 29 3]]
+[]
+Current time: 31
+[[1 29 2]]
+[]
+Current time: 32
+[[1 29 1]]
+[]
+Average time: 2.5
